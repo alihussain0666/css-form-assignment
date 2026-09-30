@@ -1,7 +1,47 @@
 *{
-    background-color: azure;
+    background-color: rgb(201, 154, 92);
+    
 }
 form{
     margin: 0px auto;
     width: max-content;
+    padding: 20px;
+    border: 3px black solid;
+    background-color: white;
 }
+label{
+    background-color: white;
+    padding: 10px 40px;
+    margin: 50px;
+}
+
+h1{
+    text-align: center;
+    background-color: white;
+    color: burlywood;
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+
+input{
+    background-color: aliceblue;
+    border: none;
+    border-bottom: 1px burlywood solid;
+    background-color: white;
+    padding: 5px;
+}
+button{
+    background-color: burlywood;
+   display: block;
+   margin: 0 auto;
+   border-radius: 5px;
+   padding: 10px 30px; 
+}
+
+#terms{
+    background-color: white;
+    font-size: medium;
+}
+
+
