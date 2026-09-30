@@ -1,3 +1,7 @@
 *{
-    background-color: lightblue;
+    background-color: azure;
+}
+form{
+    margin: 0px auto;
+    width: max-content;
 }
